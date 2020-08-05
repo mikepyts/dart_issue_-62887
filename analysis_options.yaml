@@ -1,0 +1,7 @@
+analyzer:
+  strong-mode:
+    implicit-dynamic: true
+  exclude: [build/**]
+
+  errors:
+    todo: ignore
